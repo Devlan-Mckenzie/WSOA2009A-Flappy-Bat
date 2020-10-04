@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 53cc5c46d92cb4c43a1cdada2b22bbd8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flying Bat_0
+    21300002: Flying Bat_1
+    21300004: Flying Bat_2
+    21300006: Flying Bat_3
+    21300008: Flying Bat_4
+    21300010: Flying Bat_1
+    21300012: Flying Bat_6
+    21300014: Flying Bat_7
+    21300016: Flying Bat_8
+    21300018: Flying Bat_9
+    21300020: Flying Bat_10
+    21300022: Flying Bat_11
+    21300024: Flying Bat_12
+    21300026: Flying Bat_13
+    21300028: Flying Bat_14
+    21300030: Flying Bat_15
+    21300032: Flying Bat_16
+    21300034: Flying Bat_17
+    21300036: Flying Bat_18
+    21300038: Flying Bat_19
+    21300040: Flying Bat_20
+    21300042: Flying Bat_21
+    21300044: Flying Bat_22
+    21300046: Flying Bat_23
+    21300048: Flying Bat_24
+    21300050: Flying Bat_25
+    21300052: Flying Bat_26
+    21300054: Flying Bat_27
+    21300056: Flying Bat_28
+    21300058: Flying Bat_29
+    21300060: Flying Bat_30
+    21300062: Flying Bat_31
+    21300064: Flying Bat_32
+    21300066: Flying Bat_33
+    21300068: Flying Bat_34
+    21300070: Flying Bat_35
+    21300072: Flying Bat_36
+    21300074: Flying Bat_37
+    21300076: Flying Bat_38
+    21300078: Flying Bat_39
+    21300080: Flying Bat_40
+    21300082: Flying Bat_41
+    21300084: Flying Bat_42
+    21300086: Flying Bat_43
+    21300088: Flying Bat_44
+    21300090: Flying Bat_45
+    21300092: Flying Bat_46
+    21300094: Flying Bat_47
+    21300096: Flying Bat_48
+    21300098: Flying Bat_49
+    21300100: Flying Bat_50
+    21300102: Flying Bat_51
+    21300104: Flying Bat_52
+    21300106: Flying Bat_53
+    21300108: Flying Bat_54
+    21300110: Flying Bat_55
+    21300112: Flying Bat_56
+    21300114: Flying Bat_57
+    21300116: Flying Bat_58
+    21300118: Flying Bat_59
+    21300120: Flying Bat_60
+    21300122: Flying Bat_61
+    21300124: Flying Bat_62
+    21300126: Flying Bat_63
+    21300128: Flying Bat_64
+    21300130: Flying Bat_65
+    21300132: Flying Bat_66
+    21300134: Flying Bat_67
+    21300136: Flying Bat_68
+    21300138: Flying Bat_69
+    21300140: Flying Bat_70
+    21300142: Flying Bat_71
+    21300144: Flying Bat_72
+    21300146: Flying Bat_73
+    21300148: Flying Bat_74
+    21300150: Flying Bat_75
+    21300152: Flying Bat_76
+    21300154: Flying Bat_77
+    21300156: Flying Bat_78
+    21300158: Flying Bat_79
+    21300160: Flying Bat_80
+    21300162: Flying Bat_81
+    21300164: Flying Bat_82
+    21300166: Flying Bat_83
+    21300168: Flying Bat_84
+    21300170: Flying Bat_85
+    21300172: Flying Bat_86
+    21300174: Flying Bat_87
+    21300176: Flying Bat_88
+    21300178: Flying Bat_89
+    21300180: Flying Bat_90
+    21300182: Flying Bat_91
+    21300184: Flying Bat_92
+    21300186: Flying Bat_93
+    21300188: Flying Bat_94
+    21300190: Flying Bat_95
+    21300192: Flying Bat_96
+    21300194: Flying Bat_97
+    21300196: Flying Bat_98
+    21300198: Flying Bat_99
+    21300200: Flying Bat_100
+    21300202: Flying Bat_101
+    21300204: Flying Bat_102
+    21300206: Flying Bat_103
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flying Bat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 640
+        height: 571
+      alignment: 9
+      pivot: {x: 0.61522657, y: 0.06181183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879c5acc8def3948b667efe87b07b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying Bat_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 640
+        height: 572
+      alignment: 9
+      pivot: {x: 0.61396015, y: 0.053722702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7414c438fe0f8447a3d392f5629974e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47a1a44346935a24a8e17387eca6d316
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
